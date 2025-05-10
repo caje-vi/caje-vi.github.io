@@ -12,3 +12,6 @@ minima:
   nav_pages:
     - about.md
   skin: solarized-dark
+
+plugins:
+  - jekyll-feed
