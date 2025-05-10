@@ -1,1 +1,14 @@
 remote_theme: "jekyll/minima@1e8a445"
+title: Future Proof
+description: My attempt at creating a blog
+author:
+  name: Jean Carlos
+  email: "jeancarlosmachado@protonmail.com"
+social_links:
+    - title: My Github
+      icon: github
+      url: "https://github.com/caje-vi"
+minima:
+  nav_pages:
+    - about.md
+  skin: solarized-dark
