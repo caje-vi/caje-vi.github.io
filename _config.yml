@@ -20,5 +20,6 @@ minima:
       url: "https://linkedin.com/in/jean-vmachado"
   skin: solarized-dark
 
-  plugins: 
-    - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
