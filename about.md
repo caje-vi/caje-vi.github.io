@@ -4,7 +4,7 @@ title: About
 ---
 # Hey, I'm Jean Carlos
 
-So I finally got around to making this blog. After ~three~ four false starts and a lot of procrastination, here we are!
+So I finally got around to making this blog. After ~~three~~ four false starts and a lot of procrastination, here we are!
 
 I'm a CS student trying to make sense of this crazy field. Between debugging assignments at 3 AM and trying to understand why my algorithms professor thinks sorting problems are "fun", I figured I should document this journey somewhere.
 
