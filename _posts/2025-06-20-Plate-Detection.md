@@ -78,7 +78,7 @@ results = model('path/to/license_plate.jpg')
 # Display results
 results[0].show()
 ```
-## 🚀 Real-World Applications
+## Real-World Applications
 
 - **Toll Systems**: Automatic vehicle identification
 - **Parking Management**: Access control and billing
@@ -103,7 +103,7 @@ text_width, text_height = font.getbbox(text)[2:4]  # New approach
 - **Solution**: Custom classification tool with automated organization
 - **Result**: Prevented overfitting and improved generalization
 
-## 🏅 Training Strategy
+## Training Strategy
 
 ### Data Augmentation
 - **Geometric**: Rotation (±15°), translation, scaling
