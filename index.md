@@ -2,6 +2,8 @@
 layout: home
 title: Welcome
 ---
+
+[comment](
 ## Latest Posts
 
 {% for post in site.posts limit:3 %}
@@ -13,6 +15,7 @@ title: Welcome
 </div>
 <hr>
 {% endfor %}
+)
 
 ## Why "Future Proof"?
 
