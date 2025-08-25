@@ -168,4 +168,4 @@ Give this method a try—I think you'll find it as elegant and practical as I ha
 
 ---
 
-*Want to see this in action? Check out the full tutorial at [Atlassian's Git documentation](https://www.atlassian.com/git/tutorials/dotfiles) or view my personal dotfiles setup on [GitHub](https://github.com/yourusername/dotfiles).*
+*Want to see this in action? Check out my personal dotfiles setup on [GitHub](https://github.com/caje-vi/Dotfiles).*
